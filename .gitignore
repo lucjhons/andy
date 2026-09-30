@@ -1,3 +1,1 @@
-# Clone local do mesmo repositório, dentro da pasta de trabalho.
-# Sem esta entrada o git tentava versioná-lo como submódulo (modo 160000).
 andy/
